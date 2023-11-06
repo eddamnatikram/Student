@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_24"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/nav_student"
+            android:icon="@drawable/people_24"
+            android:title="Gestion Student"/>
+
+        <item
+            android:id="@+id/nav_filiere"
+            android:icon="@drawable/book_24"
+            android:title="Gestion Filiere"/>
+
+        <item
+            android:id="@+id/nav_role"
+            android:icon="@drawable/baseline_recent_actors_24"
+            android:title="Gestion role"/>
+    </group>
+
+
+</menu>
