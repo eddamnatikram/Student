@@ -1,5 +1,6 @@
-![image](https://github.com/eddamnatikram/Student/assets/134066023/ed7f77bd-7a14-4696-b09c-c64405b758ee)# Student
 ![image](https://github.com/eddamnatikram/Student/assets/134066023/3e9905e1-7a27-4cc8-a1bb-e31705e60a72)
+
+![image](https://github.com/eddamnatikram/Student/assets/134066023/ed7f77bd-7a14-4696-b09c-c64405b758ee)
 ![image](https://github.com/eddamnatikram/Student/assets/134066023/cba7f24e-4c5b-49a6-8552-c6a152372588)
 ![image](https://github.com/eddamnatikram/Student/assets/134066023/b913254e-ea7f-4b7c-babe-28be78f5d535)
 ![image](https://github.com/eddamnatikram/Student/assets/134066023/618793d4-f51d-4260-bec3-491d7d32ac9e)
